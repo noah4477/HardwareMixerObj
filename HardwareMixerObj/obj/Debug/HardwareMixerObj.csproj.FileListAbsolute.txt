@@ -1,0 +1,9 @@
+C:\Users\Noah\Desktop\Test\HardwareMixerObj\HardwareMixerObj\bin\Debug\HardwareMixerObj.dll
+C:\Users\Noah\Desktop\Test\HardwareMixerObj\HardwareMixerObj\bin\Debug\HardwareMixerObj.pdb
+C:\Users\Noah\Desktop\Test\HardwareMixerObj\HardwareMixerObj\obj\Debug\HardwareMixerObj.dll
+C:\Users\Noah\Desktop\Test\HardwareMixerObj\HardwareMixerObj\obj\Debug\HardwareMixerObj.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\HardwareMixerObj\HardwareMixerObj\obj\Debug\HardwareMixerObj.dll
+C:\Users\Noah\Desktop\Hardware Mixer\Test\HardwareMixerObj\HardwareMixerObj\obj\Debug\HardwareMixerObj.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\HardwareMixerObj\HardwareMixerObj\bin\Debug\HardwareMixerObj.dll
+C:\Users\Noah\Desktop\Hardware Mixer\Test\HardwareMixerObj\HardwareMixerObj\bin\Debug\HardwareMixerObj.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\HardwareMixerObj\HardwareMixerObj\obj\Debug\HardwareMixerObj.csprojResolveAssemblyReference.cache
